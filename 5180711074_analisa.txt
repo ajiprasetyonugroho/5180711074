@@ -1,0 +1,38 @@
+ALGORITMA PROGAM
+
+saat kita klik menu run akan tampil sebuah progam menu pilihan
+pilih pilihan
+
+jika 1 input data
+- input berapa banyak data
+- kasih nomor pada dengan cara nomor+1
+- dengan menggunakan perulangan
+  for(k=0;k<jumlah;k++)
+- masukan nama barang
+
+jika 2 hapus data
+- hapus data ke ( catatan nomor -1 )
+- otomatis data dari sebuah inputan akan berkurang
+- dengan menggunakan perulangan
+  for(k=0;k<jumlah;k++)
+- kita bisa menampilkan data  dengan structure karena yang di hapus pada structure 
+
+jika 3 sorting
+- tampilkan hasil dari semua data
+- dengan langkah yang sama perulangan 
+  for(u=0;u<a;u++)
+- kita menampilkan sebuah data barang ( setelah di ubah atau di hapus atau di input masuk ke sorting )
+
+jika 4 edit
+- masukan data yang di edit ( input variabel k )
+- i=k-i ( maka kita bisa mengganti nama barang karena udah di edit )
+
+jika 5 searching
+- for(k=0;k<jumlah;k++)
+- dengan input cari 
+- if (barang sama dengan yang di cari )
+- maka akan tampil tulisan data indeks ke-...
+jika if(barang tidak sama dengan yang di cari )
+- mmaka progam akan tampil tulisan JUDEK DERAS
+
+- 
